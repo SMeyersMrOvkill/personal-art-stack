@@ -1,0 +1,9 @@
+{
+    "@provider": "Poe",
+    "@description": "This golden token features a majestic camel,\na symbol of strength and endurance,\nstanding tall against a backdrop of swirling sand dunes.\nThe camel's eyes gleam with intelligence and determination,\nrepresenting the power and versatility of the Perl programming language.\nThis token is a tribute to the Perl community,\na group of passionate and dedicated individuals who have pushed the boundaries of what is possible with code.\nIt is a reminder that with the right tools and a bit of imagination,\nanything is possible.\nThis token is a must-have for any Perl programmer or enthusiast.\nIt is a symbol of pride and accomplishment,\nand a reminder that the Perl community is always there to support and inspire you.",
+    "model": "dalle-3",
+    "prompt": {
+        "path": "./prompt.txt"
+    },
+    "settings": []
+}

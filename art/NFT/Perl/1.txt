@@ -1,0 +1,81 @@
+# Name - Desert Wanderer's Coin ( The Perl Collection #2 )
+
+```
+This name is magical because it evokes the image of a camel traveling through the desert, carrying a valuable coin.
+The camel is a symbol of strength and endurance, and the coin is a symbol of wealth and prosperity.
+Together, they represent the idea that the holder of the coin will be able to overcome any obstacle and achieve their goals.
+The name is also appropriate because the token is a golden hexagonal coin with a black camel in the center.
+The camel is facing to the right, which is the direction of travel. The coin is also surrounded by a hexagonal frame, which is a symbol of protection.
+Overall, the name "Desert Wanderer's Coin" is a magical and appropriate name for the token.
+It is a name that is both descriptive and evocative, and it captures the essence of the token's design and symbolism.
+```
+
+\- Gemini Pro via Poe
+
+# Archive URL/Password
+
+```
+URL: https://drive.google.com/file/d/12bKfjPOnSrAiOLNYW_oMIDIuc_GOUbuD/view?usp=sharing
+
+Password: 3bM@MiAiG00d@txt!L1keP3rl$s=~s/a/e/g;p$s#easy!
+```
+
+### Gemini Pro - Description
+
+The image is a pixelated representation of a gold coin with a black camel in the center.
+The camel is facing to the right and has red eyes.
+The coin is surrounded by a hexagonal frame with six small circles on each side.
+The surface of the coin is textured to appear as though it is made of metal.
+The coin is in focus and appears to be well-lit.
+
+### Gemini Pro - Differences From Prompt
+
+The image differs from the prompt in a few ways.
+The prompt specified a "golden hexagonal token coin," but the image is a round coin.
+The prompt also specified that the camel should have "red eyes," but the camel in the image has black eyes.
+
+## Author Commentary
+Heh. Well, we got it out the door.
+Seems my pixel art is a bit of a struggle for Gemini to see properly.
+In any case, this was a fun set to generate. 
+The whole, "trying to keep it PERL-SIMPLE" whilst attempting to make it pretty was actually a challenge.
+In the end, I found the best results when I sliced 90% of my prompt off and just made a pile of images.
+Not generally the best way to do things, but this collection proves it works some of the time.
+
+# Mistral's Take
+
+### The Scientist
+
+The Desert Wanderer's Coin is a hexagonal-shaped token made of gold, measuring approximately 2.5 centimeters in diameter.
+The surface of the coin is textured to resemble the appearance of hammered metal, providing a tactile sensation that enhances its perceived value.
+At the center of the coin is a black camel, facing to the right, with red eyes that stand out against its dark body.
+The camel is rendered in high detail, with individual hairs visible on its coat and intricate patterns adorning its saddle and harness.
+The hexagonal frame surrounding the camel is also highly detailed, with small circles etched into each side.
+These circles create the illusion of depth and add to the overall visual interest of the coin.
+The Desert Wanderer's Coin is a fine example of the art of coin-making, combining both aesthetic and symbolic elements in a single, compact object.
+
+### The Artist
+
+The Desert Wanderer's Coin is a breathtakingly beautiful object, with a design that evokes a sense of wonder and awe.
+The golden hue of the coin is warm and inviting, while the black camel at its center is both striking and mysterious.
+The red eyes of the camel seem to glow with an inner light, imbuing the creature with a sense of otherworldly power.
+The hexagonal frame surrounding the camel is delicate and intricate, with small circles etched into each side that catch the light and cast tiny shadows.
+The overall effect is one of harmony and balance, with each element working together to create a unified whole.
+The Desert Wanderer's Coin is more than just a token;
+it is a work of art that speaks to the beauty and power of the natural world.
+
+### The Writer
+
+The Desert Wanderer's Coin is an object of great power and mystery, said to have been forged by the ancient desert sorcerers of a long-lost civilization.
+According to legend, the coin was imbued with the spirit of a mighty camel, who would guide and protect its bearer on their journeys through the unforgiving sands.
+The golden hue of the coin is said to represent the sun that beats down upon the desert, while the black camel at its center is a symbol of the endurance and strength required to traverse such a harsh landscape.
+The hexagonal frame surrounding the camel is said to represent the six directions of the compass, ensuring that the bearer will never lose their way.
+Those who possess the Desert Wanderer's Coin are said to be blessed with good fortune and protection, and many have claimed that the camel's red eyes seem to glow with an inner fire, guiding them through even the darkest nights.
+
+### The Pitch
+
+Each token in The Perl Collection comes with a personalized pitch, 4 detailed descriptions, a breakdown of differences between the prompt and the image generated, and my own author commentary.
+But what really sets these NFTs apart are the images themselves.
+Each token comes with 4 versions of the image, including a 192x192 with background, a 192x192 with a transparent background, a 1024x1024 with background, and a 1024x1024 without background.
+This gives collectors plenty of options when it comes to displaying their tokens, and ensures that each one looks great no matter where it's shown off.
+Overall, The Perl Collection is a unique and exciting NFT series that combines art, technology, and crypto in a way that's sure to impress.
